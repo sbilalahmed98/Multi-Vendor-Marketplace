@@ -40,5 +40,3 @@ This project is a **template** and **requires customization** based on specific 
 ## Technologies Used
 
 Laravel 10, MySQL/PostgreSQL, Blade Templates, PHP, HTML/CSS
-
-Developed by: Bilal Ahmed
